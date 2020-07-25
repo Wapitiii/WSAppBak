@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\WSAppBak\WSAppBak\obj\Debug\WSAppBak.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\WSAppBak\WSAppBak\bin\Debug\WSAppBak.exe
+C:\Users\Admin\Documents\WSAppBak\WSAppBak\bin\Debug\WSAppBak.pdb
+C:\Users\Admin\Documents\WSAppBak\WSAppBak\obj\Debug\WSAppBak.exe
+C:\Users\Admin\Documents\WSAppBak\WSAppBak\obj\Debug\WSAppBak.pdb
